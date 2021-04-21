@@ -1,0 +1,1 @@
+window.location.href="https://oldschool.runescape.wiki/w/"+window.location.href.substr(43)
